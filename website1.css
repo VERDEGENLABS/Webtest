@@ -1,0 +1,78 @@
+*		{
+	text-decoration: none;
+	margin: 0;
+	padding: 	0;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+body	{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+nav	{
+display: flex;
+padding: 10px 5px 10px 5px;
+z-index: 1;
+position: sticky;
+position: -webkit-sticky;
+background: #000;
+margin: auto;
+line-height: 50px;
+}
+
+nav img {
+	width: 120px;
+	float: right;
+	padding-left: 60px;
+	margin: auto;
+	float: left;
+	padding-top: 12.5px;
+}
+
+.uwell {
+	float: left;
+	margin: auto;
+	position: relative;
+	width: 800px;
+}
+
+.uwell ul li {
+list-style: none;
+display: inline-block;
+padding: 0px 30px 0px 25px;
+position: relative;
+float: left;
+
+}
+
+.uwell	li a {
+	color: #ffff00;
+}
+
+h1	{
+	font-size: 50;
+	margin: auto;
+	text-align: center;
+	padding-top: 50px;
+	color: #ffff00 ;
+}
+
+.product	{
+	float: right;
+	margin: auto;
+}
+
+.product ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 0px 15px 0px 15px;
+	position: relative;
+	float: left;
+
+}
+
+
+
